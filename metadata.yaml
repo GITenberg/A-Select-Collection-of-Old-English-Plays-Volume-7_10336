@@ -1,5 +1,5 @@
 _repo: A-Select-Collection-of-Old-English-Plays-Volume-7_10336
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Dodsley, Robert
@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '26524'
     url: http://www.gutenberg.org/2009/agents/26524
     wikipedia: http://en.wikipedia.org/wiki/Robert_Dodsley
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10336#A-Select-Collection-of-Old-English-Plays-Volume-7
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
